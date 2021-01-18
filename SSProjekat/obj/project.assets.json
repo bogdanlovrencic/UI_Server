@@ -12807,29 +12807,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sloba\\.nuget\\packages\\": {}
+    "C:\\Users\\Andrej\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sloba\\Documents\\GitHub\\UI_Server\\SSProjekat\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Andrej\\Desktop\\Master projekat\\EMS-CORE\\SSProjekat\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\Sloba\\Documents\\GitHub\\UI_Server\\SSProjekat\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\Sloba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sloba\\Documents\\GitHub\\UI_Server\\SSProjekat\\obj\\",
+      "projectPath": "C:\\Users\\Andrej\\Desktop\\Master projekat\\EMS-CORE\\SSProjekat\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\Andrej\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrej\\Desktop\\Master projekat\\EMS-CORE\\SSProjekat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sloba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        "C:\\Users\\Andrej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Azure\\.NET SDK\\v2.9": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

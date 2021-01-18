@@ -19,13 +19,12 @@ namespace WebApp.Services
 
         public List<IdentifiedObject> GetIdentifiedObjects()
         {
-            return _dataContext.IdentifiedObjects
-                .Select(io => new IdentifiedObject()
-                {
-                    AliasName = io.AliasName,
-                    MRID = io.MRID,
-                    Name = io.Name
-                }).ToList();
+            return _dataContext.IdentifiedObjects.ToList();
+        }
+
+        public List<ConductingEquipment> GetConductingEquipments()
+        {
+            return _dataContext.ConductingEquipments.ToList();
         }
     }
 }

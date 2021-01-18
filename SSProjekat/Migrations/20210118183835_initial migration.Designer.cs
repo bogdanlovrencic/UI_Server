@@ -9,8 +9,8 @@ using WebApp.Helpers;
 namespace WebApp.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210111102125_AddingModels")]
-    partial class AddingModels
+    [Migration("20210118183835_initial migration")]
+    partial class initialmigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
